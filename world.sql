@@ -1,7 +1,7 @@
 -- MySQL dump 10.11
 --
 -- to install this database, from a terminal, type:
--- mysql -u USERNAME -p -h SERVERNAME world < world.sql
+-- mysql -u uname -p -h SERVERNAME world < world.sql
 --
 -- Host: localhost    Database: world
 -- ------------------------------------------------------
